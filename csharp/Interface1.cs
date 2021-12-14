@@ -17,7 +17,7 @@ namespace Enum
 
         void IAnimal.Nome(string nome)
         {
-            this.Nome = nome;                              //metodos dentro da interface
+            this.Nome = nome;                              
         }
         void IAnimal.Dono(string nomeDono)
         {
